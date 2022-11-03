@@ -1250,26 +1250,30 @@ figure[class*='text-pull-'] {
 @font-face {
   font-family: 'San Francisco';
   font-weight: 100;
-  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.woff2"); }
-
+  src:url("./../fonts/sanfranciscodisplay-ultralight-webfont.woff2");
+  /*src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.woff2"); }*/
+}
 /* Thin */
 @font-face {
   font-family: 'San Francisco';
   font-weight: 200;
-  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-thin-webfont.woff2"); }
-
+  src: url("./../fonts/sanfranciscodisplay-thin-webfont.woff2");
+  /*src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-thin-webfont.woff2"); }*/
+}
 /* Regular */
 @font-face {
   font-family: 'San Francisco';
   font-weight: 400;
-  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff2"); }
-
+  src: url("./../fonts/sanfranciscodisplay-regular-webfont.woff2");
+  /*src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff2"); }*/
+}
 /* Bold */
 @font-face {
   font-family: 'San Francisco';
   font-weight: bold;
-  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-bold-webfont.woff2"); }
-
+  src: url("./../fonts/sanfranciscodisplay-bold-webfont.woff2");
+  /*src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-bold-webfont.woff2"); }*/
+}
 /*=========================================
 3. Header & Footer
 =========================================== */
